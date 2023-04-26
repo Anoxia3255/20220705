@@ -39,4 +39,22 @@
 刘备|逃跑|6
 关羽|疼痛耐受|92
 
+# 插入代码
+   c
+    #include <stdio.h>
+    int main(){
+    	printf("c language\n");
+    	return 0;
+    }
+
+   bash
+    sudo apt-get install libssl-dev
+    echo 数据回显
+
+   cpp
+    /*插入c++代码*/
+
+   python
+    #插入python代码
+
 
